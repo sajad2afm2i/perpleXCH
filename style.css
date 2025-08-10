@@ -48,13 +48,14 @@ main {
     box-shadow: 0 8px 20px rgba(13, 27, 42, 0.1);
     overflow: hidden;
     width: 320px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), 
+                box-shadow 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .drone:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 15px 30px rgba(13, 27, 42, 0.2);
+    transform: translateY(-12px) scale(1.03);
+    box-shadow: 0 20px 40px rgba(13, 27, 42, 0.25);
 }
 
 /* تصویر */
