@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perpleXCH/static/css/main.e6c13ad2.css",
+    "main.js": "/perpleXCH/static/js/main.4d6f73e7.js",
+    "static/js/453.52e322e5.chunk.js": "/perpleXCH/static/js/453.52e322e5.chunk.js",
+    "index.html": "/perpleXCH/index.html",
+    "main.e6c13ad2.css.map": "/perpleXCH/static/css/main.e6c13ad2.css.map",
+    "main.4d6f73e7.js.map": "/perpleXCH/static/js/main.4d6f73e7.js.map",
+    "453.52e322e5.chunk.js.map": "/perpleXCH/static/js/453.52e322e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d6f73e7.js"
+  ]
+}
