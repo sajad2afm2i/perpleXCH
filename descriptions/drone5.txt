@@ -1,0 +1,119 @@
+?? Technical specifications of the drone
+???? ???????? ?????????????????????? ??????
+?? Persian Firefighter ??
+
+---
+
+?? General specifications ??
+
+1. Model name: ?? Aryo FF One
+
+2. Type: ?? Firefighting / ?? Emergency relief / ?? Refueling / ?? Carrying weapons and ammunition
+
+3. Length: ?? 23.3 meters
+
+4. Wingspan: ?? 20.9 meters
+
+5. Height: ?? 5.36 meters
+
+6. Wing area:
+   • Front wings: ?? 67.56 m² (33.78 × 2)
+   • Rear horizontal wings: ?? 9.44 m² (4.72 × 2)
+   • Vertical wing: ?? 7 m²
+
+---
+
+?? Weight and capacities ??
+
+7. Empty weight: ?? 12.5 tons
+   – Weight with water ?? (firefighter mode): 50.4 tons
+
+8. Maximum takeoff weight (MTOW): ?? \~50–55 tons
+
+9. Fuel capacity: ?? 6.23 tons
+
+10. Payload:
+    • ?? In firefighter mode: 31.7 tons
+
+---
+
+?? Engine and propulsion ??
+
+11. Engine type: ?? High-bypass Turbofan
+
+12. Recommended engine model: ?? Rolls-Royce AE 3007H Custom / IHI F7-10 Custom
+
+13. Number of engines: ?? 4
+
+14. Thrust (with full fuel and load):
+    • ?? Sea level: 64 kN each engine ??
+    • ?? Altitude 6 km (firefighter standard): 30 kN each engine ??
+    • ?? Altitude 10 km: \~19.5 kN
+
+15. Fuel consumption:
+    ?? \~0.3 kg/s (per engine) = 1080 kg/h each engine
+    ?? Total four engines = 4.32 kg/s (4320 kg/h)
+    Conditions: altitude 10 km, speed 824 km/h, full load, fuel 88%
+
+---
+
+?? Flight performance ??
+
+16. Maximum speed: ?? 340 m/s (1224 km/h)
+
+17. Cruise speed: ?? 800 km/h
+
+18. Operating range (maximum speed): ?? 1600 km (altitude 10 km)
+
+19. Operating range (cruising speed): ?? 1776 km (altitude 10 km)
+
+20. Operating range (optimal flight): ?? \~2300 km (altitude 10 km)
+
+21. Flight endurance: ? 1.31 hours
+
+22. Flight ceiling: ?? \~10–11 km
+
+23. Thrust-to-weight ratio:
+    • ?? Low altitude: \~0.46
+    • ?? High altitude: \~0.22
+
+---
+
+24. Body material ??
+    • Lightweight aluminum-lithium alloy with carbon fiber reinforcement in sensitive parts (composite)
+    • ?? Heat and corrosion resistant coating from firefighting operations
+
+---
+
+25. Approximate price ??
+    • \$31–51.5 million (\~3,100,000,000,000 Tomans/5,150,000,000,000 Tomans)
+    (Including fuselage, engines, flight systems, communications, and firefighting system)
+
+---
+
+26. Application ??
+    • ?? Firefighting in remote/extensive areas
+    • ?? Emergency relief & cargo transport
+    • ?? Aerial refueling for ground forces & drones
+    • ?? Transport of weapons & ammunition for defense missions
+
+---
+
+27. Communication systems ??
+    • ?? VHF/UHF radio link (several hundred km, line of sight)
+    • ?? Satellite link (SATCOM) for global coverage & video/data transmission
+    • ?? Dedicated LTE/5G wireless data system for fast transmission
+    • ?? Advanced GNSS/INS navigation with high accuracy
+
+---
+
+28. Artificial intelligence capabilities ??
+    • ?? Automatic fire detection & tracking (thermal/video)
+    • ?? Automatic navigation with optimal path & obstacle avoidance
+    • ?? Fuel/load management to increase flight endurance
+    • ?? Environmental data analysis & operator alerting
+    • ?? Semi-automated missions & in-flight mission changes
+
++Copyright: sullyarmstrong
+@Space_sf
+?? [sullyarmstrong03@gmail.com](
