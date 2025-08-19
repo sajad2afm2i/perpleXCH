@@ -1,0 +1,84 @@
+﻿✈️ MOONSA F48 Plus
+Advanced fifth-generation multi-purpose drone
+
+📌 General information
+
+🔹 Model name: F48
+🛠 Application: Multi-purpose (combat, reconnaissance, escort, intelligent surveillance)
+💰 Price: $25–30 million (estimated)
+© Designer: Sully Armstrong
+📬 Contact: @Space_sf | sullyarmstrong03@gmail.com
+
+📐 Dimensions
+
+📏 Wingspan: 7.76 m
+📏 Height: 2.00 m
+📏 Fuselage length: 7.74 m
+🧩 Main parts: 42 pieces
+
+⚙️ Weight and propulsion
+
+⚖️ Empty weight: 3.25 t
+⛽️ With full tanks: 4.11 t
+🚀 Max takeoff weight: 5.2 t (with tanks & cargo)
+
+🔋 Engines & thrust
+
+🧠 Proposed engine: WS-13 Taishan (or equivalent small turbofan)
+🔁 Engines: 2
+
+🔸 Thrust per engine
+• 40–42 kN at 150 m / 610 m/s
+• 5–7 kN at 18.6 km / 500 m/s
+
+💨 Total thrust
+• Low altitude: 80–85 kN
+• High altitude: 10–14 kN
+
+⛽️ Fuel consumption
+
+🚦 Cruise mode (70% thrust): ~97 g/s at 18 km & 520 m/s (per engine)
+🔥 Full thrust: ~140 g/s
+🚀 Afterburner: Not available
+🔋 Total cruise consumption (2 engines): ~194 g/s
+
+🔢 Thrust-to-weight ratio
+
+✅ At 150 m: ≈ 3.0
+✅ At 18 km: ≈ 0.82
+
+✈️ Flight performance
+
+⚡️ Max speed: 600 m/s (≈ 2160 km/h)
+🛣 Range (max speed): ≈ 3684 km
+💡 Optimal cruise speed: 1100–1500 km/h
+🌍 Range at economic cruise (with +450kg tanks, 70% thrust): ≈ 11,225 km ✅
+
+⏳ Flight endurance
+
+⚡️ Full thrust: 1.7 h
+🚦 Cruise mode: 2.46 h
+⛽️ With extra tanks (cruise): 5.2 h
+
+
+🖥️ Next-Gen Technology & Modern Systems
+
+Stealth & Signature Management: Ultra-low radar cross-section, infrared & thermal suppression, electromagnetic emission masking
+
+Autonomous & AI Flight: Self-learning AI, real-time obstacle avoidance, smart fuel & thrust optimization
+
+Advanced Sensors & Imaging: Multi-spectral EO/IR cameras, high-resolution SAR, hyperspectral chemical/biological reconnaissance
+
+Communication & Data: Encrypted satellite link, rewritable onboard memory, mesh-networking for swarm operations
+
+Electronic Warfare & Countermeasures: Adaptive ECCM, signal jamming & spoofing, passive & active decoys
+
+Payload & Modular Systems: Quick-swap bays for cameras/sensors/armament, smart power & cooling, optional micro-drone deployment
+
+Health & Self-Maintenance: Real-time diagnostics, predictive failure detection, autonomous recovery protocols
+
+
+
+🔐 Copyright: © Sully Armstrong
+📲 Channel: Telegram link
+📧 Email: sullyarmstrong03@gmail.com
