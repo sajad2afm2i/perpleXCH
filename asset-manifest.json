@@ -1,14 +1,23 @@
 {
   "files": {
     "main.css": "/perpleXCH/static/css/main.e6c13ad2.css",
-    "main.js": "/perpleXCH/static/js/main.66bdc18a.js",
+    "main.js": "/perpleXCH/static/js/main.7594e7af.js",
+    "static/media/rain.mp3": "/perpleXCH/static/media/rain.4bbbfa13278b4c235dd6.mp3",
+    "static/media/img6.jpg": "/perpleXCH/static/media/img6.e54e505f896136a54eb1.jpg",
+    "static/media/drop.png": "/perpleXCH/static/media/drop.0558b3bf0ff204adc094.png",
+    "static/media/img3.jpg": "/perpleXCH/static/media/img3.19161be19569ed14f9fc.jpg",
+    "static/media/img4.jpg": "/perpleXCH/static/media/img4.15889a5281c753bfbf52.jpg",
+    "static/media/img5.jpg": "/perpleXCH/static/media/img5.33e740b6f82d0aecd77a.jpg",
+    "static/media/logo2.jpg": "/perpleXCH/static/media/logo2.959b805d51fd84ca87bf.jpg",
+    "static/media/img2.jpg": "/perpleXCH/static/media/img2.d669b8d65835da15d99d.jpg",
+    "static/media/img1.jpg": "/perpleXCH/static/media/img1.ebb7453e459d08d1c135.jpg",
     "static/media/logo.jpg": "/perpleXCH/static/media/logo.40340696ac9d81f2f9f6.jpg",
     "index.html": "/perpleXCH/index.html",
     "main.e6c13ad2.css.map": "/perpleXCH/static/css/main.e6c13ad2.css.map",
-    "main.66bdc18a.js.map": "/perpleXCH/static/js/main.66bdc18a.js.map"
+    "main.7594e7af.js.map": "/perpleXCH/static/js/main.7594e7af.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.66bdc18a.js"
+    "static/js/main.7594e7af.js"
   ]
 }
